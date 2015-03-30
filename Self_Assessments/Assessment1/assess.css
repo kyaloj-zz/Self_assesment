@@ -1,16 +1,29 @@
+.container{
+	background-color: #999999;
+}
+
 .heading{
 
 	background-color: #2E2E2F;
 	margin-bottom: 10px;
+	height: 200px;
 
 }
 
 .heading h1{
-   color: yellow;
+   color: #B7AE11;
+    font-size: 100px;
+    margin-top: 55px;
 }
 
-.heading {
-   color: grey;
+.heading a{
+   color: white;
+}
+
+.heading p{
+   color: #E6E6E6;
+   text-align: center;
+   margin-top: 120px;
 }
 
 .simply{
@@ -19,6 +32,15 @@
 	background-size: cover;
 	margin-bottom: 10px;
 
+}
+.simply p{
+	font-size: 30px;
+
+}
+
+#small_p{
+	font-size: 10px;
+	
 }
 
 .main_post{
