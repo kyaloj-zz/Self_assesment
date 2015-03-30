@@ -1,0 +1,64 @@
+.heading{
+
+	background-color: #2E2E2F;
+	margin-bottom: 10px;
+
+}
+
+.heading h1{
+   color: yellow;
+}
+
+.heading {
+   color: grey;
+}
+
+.simply{
+	background: url("/home/justus/Assignments/Selfassesment/Self_Assessments/Assessment1/assets/big_img.jpg");
+	height: 500px;
+	background-size: cover;
+	margin-bottom: 10px;
+
+}
+
+.main_post{
+	margin-bottom: 10px;
+}
+
+.editable{
+
+	margin-bottom: 10px;
+}
+
+.tgh{
+	margin-bottom: 10px;
+	height: 200px;
+}
+
+.itgh{
+  margin-bottom: 10px;
+}
+
+.adspace{
+	margin-bottom: 10px;
+}
+
+.last_tgh{
+
+	margin-bottom: 10px;
+}
+
+footer{
+
+	background-color: #161B26;
+}
+
+
+
+
+
+
+
+
+
+
