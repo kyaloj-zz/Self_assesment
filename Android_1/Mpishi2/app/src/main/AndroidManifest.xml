@@ -7,7 +7,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/Theme.AppCompat.NoActionBar" >
-        <activity
+       <!-- <activity
             android:name=".Main"
             android:label="@string/app_name" >
             <intent-filter>
@@ -15,6 +15,36 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>-->
+        <activity
+            android:name=".splash2"
+            android:label="@string/title_activity_splash2" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <activity
+            android:name=".login"
+            android:label="@string/title_activity_login" >
+        </activity>
+
+        <activity
+            android:name=".howitworks"
+            android:label="@string/title_activity_howitworks" >
+        </activity>
+
+        <activity
+            android:name=".howitworks2"
+            android:label="@string/title_activity_howitworks2" >
+        </activity>
+        <activity
+            android:name=".Main"
+            android:label="@string/app_name" >
+
         </activity>
     </application>
 

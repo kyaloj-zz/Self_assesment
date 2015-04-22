@@ -8,22 +8,25 @@
         android:layout_height="wrap_content"
         android:text="Mpishi helps you contribute and share recipe with other Mpishi users"
         android:id="@+id/textView4"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="119dp"
         android:textSize="40sp"
         android:textStyle="normal"
         android:inputType="none"
         android:gravity="center_horizontal"
-        android:textColor="#ff55ff6f" />
+        android:textColor="#ff55ff6f"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
 
     <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="OK got it"
+        android:text="OK GOT IT"
         android:id="@+id/button2"
+        android:background="#ffff744b"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:textAlignment="inherit"
-        android:background="#ffff634f"/>
+        android:textSize="25sp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
 </RelativeLayout>
