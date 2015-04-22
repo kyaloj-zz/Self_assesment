@@ -18,7 +18,7 @@ public class splash2 extends ActionBarActivity {
             public void run(){
                 try {
                     sleep(3000);
-                    Intent next = new Intent(getBaseContext(), login.class);
+                    Intent next = new Intent(getBaseContext(), Fblogin.class);
                     startActivity(next);
                     finish();
                 }
